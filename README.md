@@ -9,6 +9,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7pgd0gr75ky4e8ce8mrnxknpo&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fbff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7pgd0gr75ky4e8ce8mrnxknpo&redirect=true)
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://adriansblinkiecollection.neocities.org/dividers/rainbowswirldivider.gif">
+
+<img id="freshBlinkie" src="https://blinkies.cafe/b/blinkiesCafe-Am.gif" alt="generated blinkie">
 <!--
 **xXWebbyLifeXx/xXWebbyLifeXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

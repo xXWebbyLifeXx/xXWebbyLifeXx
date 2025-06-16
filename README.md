@@ -10,7 +10,7 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://adriansblinkiecollection.neocities.org/dividers/rainbowswirldivider.gif">
 
-<img id="freshBlinkie" src="https://blinkies.cafe/b/blinkiesCafe-Am.gif" alt="generated blinkie"> <img id="freshBlinkie" src="/b/display/0101-ballcplyellowyellow.gif" alt="generated blinkie"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://adriansblinkiecollection.neocities.org/b39.gif">
+<img id="freshBlinkie" src="https://blinkies.cafe/b/blinkiesCafe-Am.gif" alt="generated blinkie">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://adriansblinkiecollection.neocities.org/b39.gif">  <img id="freshBlinkie" src="/b/display/0101-ballcplyellowyellow.gif" alt="generated blinkie">
 <!--
 **xXWebbyLifeXx/xXWebbyLifeXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

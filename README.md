@@ -6,7 +6,6 @@
 
 🎉 FUN FACTS!: MY PRONOUNS ARE THEY/IT, MY FAVORITE ALL TIME SHIPS ARE KEIKAI, JESSKAS AND LEOPIKA, MY FAVORITE ANIMAL IS RED PANDAS AND ORCHID MANTIS'S, AND MY FAVORITE COLOR IS PINK, PURPLE, OR LIGHTER BLUES!
 
-FYI IF THERES ANY WEIRD BLINKIES I DID NOT ADD THEM. SOME PEOPLE CHANGE MY BLINKIES TO MAKE IT SAY WEIRD STUFF I JUST CAUGHT ONE UHMM LOOKS AROUND I HAVE NOW LEARNED TO NOT USE BLINKIE CAFE
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7pgd0gr75ky4e8ce8mrnxknpo&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fbff00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7pgd0gr75ky4e8ce8mrnxknpo&redirect=true)
 
